@@ -1,0 +1,4 @@
+BLOCK_TOUCH {
+	GameOver()
+	GameOverToPlayer()
+}
